@@ -11,10 +11,11 @@ If you ever feel overwhelmed or need extra help, please speak up.
 
 ## Assignments 
 There will be nine assignments over the course of the semester. 
-Details of each assignment will be posted on the class website. 
+Details of each assignment will be posted on NYU classes as well as discussed in class as they are assigned. 
 All assignments are to be submitted via NYU Classes before class on the day they are due. 
 Do your best to turn work in on time. 10% will be deducted for each class day after the deadline. 
 No assignments will be accepted after three classes or after the final exam.
+This repository will be updated after each class with notes, code snippets, resources, and any relevant materials.
 
 ## Grading
 Assignments: 40% 
