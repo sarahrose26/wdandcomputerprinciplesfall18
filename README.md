@@ -1,6 +1,11 @@
 ## Office Hours and Contact Information
-Professor Sarah Dahnke: sdahnke@cims.nyu.edu
-Office Hours: Wednesdays from 2-3pm in Room 308
+Professor Sarah Dahnke: srd280@nyu.edu (preferred) or sdahnke@cims.nyu.edu
+Office Hours: Wednesdays from 2-3pm in Room 308 or by appointment immediately before or after class on Mondays
+
+*Note About Communication with Professor--When emailing, please set up your subject line to indicate the course in square brackets and question following. For example: [Web Design and Computer Principles] Office Hours Appointment Monday at 2pm?*
+
+*You may email short, to-the-point clarifying questions (when, where, what?). If you have questions about your code, please attach the code in question. If you find yourself needing to write long paragraphs, that is an indication you should be attending office hours or setting up an alternative time to meet. Please note that I teach multiple courses. During the week I may take 24 hours to reply to an email, and I typically do not respond to email on the weekend unless it is urgent. Plan ahead!*
+
 
 ## Expectations
 You are expected to come to all classes and arrive on time. 
