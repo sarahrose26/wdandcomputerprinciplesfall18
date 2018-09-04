@@ -24,5 +24,7 @@ This repository will be updated after each class with notes, code snippets, reso
 
 ## Grading
 Assignments: 40% 
+
 Midterm exam: 25% 
+
 Final exam: 35%
