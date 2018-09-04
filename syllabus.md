@@ -8,7 +8,7 @@ Midterm: October 17
 
 Final: Wed, Dec 19 from 4:00pm-5:50pm (room TBD)
 
-note: You can always refer to the CS Final Exam Schedule [here.](https://cs.nyu.edu/dynamic/courses/exams/)
+NOTE: You can always refer to the CS Final Exam Schedule [here.](https://cs.nyu.edu/dynamic/courses/exams/)
 
 ## Lecture Topics
 *Unix command line
@@ -51,3 +51,6 @@ Macintosh computers with all of the necessary software installed are available t
 The main Student Technology Center (STC) to use for this class is the LaGuardia Co-op. There are other STCs on campus, but this is also where tutors will be available to meet with you. The LaGuardia Co-op is located at 541 LaGuardia Place.
 
 Make sure to save copies of your programs and back them up to other media (such as a flash drive or external hard drive). You can store copies of files on your NYU Home account as well.
+
+## Tutoring
+Tutors will be available throughout the semester. A link to tutoring hours will be located here once it is posted.
