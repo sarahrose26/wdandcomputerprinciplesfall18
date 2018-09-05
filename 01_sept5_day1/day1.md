@@ -21,7 +21,7 @@
 
 1. Review the syllabus and make sure you are clear on course requirements, how to contact me, expectations
 
-2. Get access to our course textbook. Read Part I: Getting Started
+2. Get access to our course textbook. Read Chapter 2: How the Web Works
 
 3. Check your email and make sure you have your i6 account information.
 
