@@ -53,4 +53,4 @@ The main Student Technology Center (STC) to use for this class is the LaGuardia 
 Make sure to save copies of your programs and back them up to other media (such as a flash drive or external hard drive). You can store copies of files on your NYU Home account as well.
 
 ## Tutoring
-Tutors will be available throughout the semester. A link to tutoring hours will be located here once it is posted.
+Tutors will be available throughout the semester. Tutoring hours are located on the front page of the common syllabus [here](https://cs.nyu.edu/courses/fall18/CSCI-UA.0004-006/common-syllabus/)
