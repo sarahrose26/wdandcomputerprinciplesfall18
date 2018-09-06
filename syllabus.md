@@ -35,6 +35,27 @@ NOTE: You can always refer to the CS Final Exam Schedule [here.](https://cs.nyu.
 
 *Web hosting and domain names
 
+## Policies
+Assignments that you turn in should be your own work. It’s fine to talk to other students and to get assistance in how to do something, but you should not ask another person to do the work for you. For reference, here is the [Computer Science Department’s statement on academic integrity](https://cs.nyu.edu/home/undergrad/policy.html).
+
+## Submitting Assignments
+1. Log into NYU Classes with your NYU NetID and password.
+
+2. Click on the tab for the appropriate class.
+
+3. Click on “Assignments” in the navigation bar on the left.
+
+4. Click on the link for the corresponding assignment in the main window.
+
+5. Add whatever comments you may need to under “Assignment Text.”
+
+6. If file attachments are required, compress them and use the following naming convention: lastname_firstname_assignmentnumber.
+
+7. To attach files, click the “Choose File” button under “Attachments” to find the file you wish to submit and select it. Add additional files as necessary. Make sure that the file appears as an attachment before you continue.
+
+8. When you are ready, click the “Submit” button and wait for confirmation before closing the browser window.
+Once you have submitted an assignment you can only resubmit it twice, so make sure that what you are submitting is the final version of your work.
+
 ## Textbook
 Learning Web Design, 5th Edition
 A Beginner's Guide to HTML, CSS, JavaScript, and Web Graphics
@@ -54,3 +75,7 @@ Make sure to save copies of your programs and back them up to other media (such 
 
 ## Tutoring
 Tutors will be available throughout the semester. Tutoring hours are located on the front page of the common syllabus [here](https://cs.nyu.edu/courses/fall18/CSCI-UA.0004-006/common-syllabus/)
+
+## Accommodations
+
+If you are student with a disability who is requesting accommodations, please contact New York University’s Moses Center for Students with Disabilities at 1-212-998-4980 or mosescsd@nyu.edu.  You must be registered with CSD to receive accommodations.  Information about the Moses Center can be found atwww.nyu.edu/csd. The Moses Center is located at 726 Broadway on the 2nd floor.
