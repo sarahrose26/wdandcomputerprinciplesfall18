@@ -15,7 +15,6 @@
   
 * File organization suggestion
   
-* Intro to computer principles. [Slides from today](https://docs.google.com/presentation/d/1pi7ssn5k7oeedej52lWJ054KLH37sNoUNz9Dayjh-Cg/edit?usp=sharing)
 
 ### Homework: To be completed by Monday's class
 
