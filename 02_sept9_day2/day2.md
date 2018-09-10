@@ -12,3 +12,5 @@
 * Do the [Clean Up the Fridge](https://github.com/sarahrose26/command-line-refrigerator-lab) lab for command line practice
 
 * Read Chapter 4: Creating a Simple Web Page
+
+* Begin Assignment #1, due in one week on Sept 17. Log into NYU Classes for all of the details on Assignment #1: Unix and Basic Web Page.
