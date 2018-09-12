@@ -5,3 +5,5 @@
 [Unix Command Line Tutorial](http://www.ee.surrey.ac.uk/Teaching/Unix/unix1.html)
 
 [Terminus Command Line Practice](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)
+
+[Windows Command Line Cheat Sheet](https://www.thomas-krenn.com/en/wiki/Cmd_commands_under_Windows)
