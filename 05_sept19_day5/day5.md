@@ -2,6 +2,8 @@
 
 * If you are ever wondering or confused about something you see on my screen or your screen, please ask questions during class! You are probably not the only one with a question.
 
+* [Slides for today](https://docs.google.com/presentation/d/1DZg0f_U3vqEjaHx4Izk_par8I288q-1dr_pH5S8V4jQ/edit?usp=sharing)
+
 * File path review
 
     * Linking togther pages + unordered list as a navigation
@@ -16,9 +18,11 @@
 
 * [HTML Shell](http://htmlshell.com/), HTML Skeleton (Brackets), HTML Boilerplate (Sublime), [Atom-html-template](https://atom.io/packages/atom-html-templates)
 
-* The <meta charset = ""> attribute
+* The meta charset = "" attribute
 
-* <html lang = "">
+* The html lang = "" tag
+
+* iframes on Google Maps, Soundcloud, etc
 
 
 ### Homework
