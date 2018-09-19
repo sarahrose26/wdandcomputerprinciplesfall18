@@ -29,5 +29,7 @@
 
 * Complete Assignment #2. All details are on NYU Classes. This is due on Monday.
 
+* Read [Semantic Tags: Why Do We Use Them?](https://codepen.io/mi-lee/post/an-overview-of-html5-semantics)
+
 * Reminder to read chapters 6 & 7 in your textbook if you haven't already.
 
