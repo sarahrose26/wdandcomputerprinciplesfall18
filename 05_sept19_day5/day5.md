@@ -2,6 +2,8 @@
 
 * If you are ever wondering or confused about something you see on my screen or your screen, please ask questions during class! You are probably not the only one with a question.
 
+* [Slides for today](https://docs.google.com/presentation/d/1DZg0f_U3vqEjaHx4Izk_par8I288q-1dr_pH5S8V4jQ/edit?usp=sharing)
+
 * File path review
 
     * Linking togther pages + unordered list as a navigation
@@ -16,14 +18,18 @@
 
 * [HTML Shell](http://htmlshell.com/), HTML Skeleton (Brackets), HTML Boilerplate (Sublime), [Atom-html-template](https://atom.io/packages/atom-html-templates)
 
-* The <meta charset = ""> attribute
+* The meta charset = "" attribute
 
-* <html lang = "">
+* The html lang = "" tag
+
+* iframes on Google Maps, Soundcloud, etc
 
 
 ### Homework
 
 * Complete Assignment #2. All details are on NYU Classes. This is due on Monday.
+
+* Read [Semantic Tags: Why Do We Use Them?](https://codepen.io/mi-lee/post/an-overview-of-html5-semantics)
 
 * Reminder to read chapters 6 & 7 in your textbook if you haven't already.
 
