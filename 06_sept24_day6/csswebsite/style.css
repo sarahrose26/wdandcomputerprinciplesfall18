@@ -1,0 +1,25 @@
+h1{
+    color: deeppink;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+h3{
+    color: darkcyan;
+}
+
+div {
+    background-color:yellowgreen;
+}
+
+span{
+    color: red;
+}
+
+.center {
+    text-align: center;
+}
+
+#green{
+    color: darkseagreen;
+}
