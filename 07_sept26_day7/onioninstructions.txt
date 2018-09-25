@@ -6,7 +6,7 @@ ex.
 
 shannon-jen-onion-exercise
 
-Download onion.html (place it in your folder), create a blank stylesheet and use CSS to:
+Create an index.html file, and copy onion.html into it. Create a blank stylesheet and use CSS to:
 
 1. Make the main headline dark green
 
@@ -25,4 +25,6 @@ Download onion.html (place it in your folder), create a blank stylesheet and use
 9. Make an underline appear when you hover over a link
 
 
-When you are finished, upload your submissions to one team member's i6 account, and submit your link via NYU Classes in the In-Class Onion Exercise assignment.
+When you are finished, upload your submissions to one team member's i6 account, and submit your link via NYU Classes under the Styling the Onion assignment. Both team members should submit a link, so that you both can receive credit. 
+
+This assignment is worth 2 bonus points on your midterm.
