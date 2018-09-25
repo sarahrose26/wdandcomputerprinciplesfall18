@@ -1,0 +1,28 @@
+Style "The Onion Article"
+
+Create a folder called yourname-partnername-onion-exercise 
+
+ex.
+
+shannon-jen-onion-exercise
+
+Download onion.html (place it in your folder), create a blank stylesheet and use CSS to:
+
+1. Make the main headline dark green
+
+2. Use the font family "Georgia" for the main headline and the sub-headline
+
+3. Center the text of the main headline and the sub-headline
+
+4. Make the paragraphs have a line height of 19 pixels
+
+6. Make the "You might also like" label all uppercase
+
+7. Follow the directions in the Editor's Note at the bottom of the HTML [age
+
+8. Remove the underline from the links
+
+9. Make an underline appear when you hover over a link
+
+
+When you are finished, upload your submissions to one team member's i6 account, and submit your link via NYU Classes in the In-Class Onion Exercise assignment.
