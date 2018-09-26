@@ -1,5 +1,7 @@
 ## Day 7
 
+[slides from today](https://docs.google.com/presentation/d/1R8f6nrEH2wrEuobfh7K4Z7t1aTnAPaDLy6LEEFkn_cc/edit?usp=sharing)
+
 * More CSS! 
     
     * colors
