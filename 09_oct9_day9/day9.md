@@ -23,3 +23,5 @@
 * Assignment #4 on NYU Classes
 
 * Read Chapter 24: Image Asset Production
+
+* Look over midterm review sheet, and come to tomorrow's office hours if there is anything that you need individual help with
