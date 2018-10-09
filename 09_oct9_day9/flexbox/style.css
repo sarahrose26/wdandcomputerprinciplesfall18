@@ -1,0 +1,19 @@
+.flex-container{
+   list-style: none; 
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    
+}
+
+.flex-item{
+    background-color: aqua;
+    border: solid black;
+    width: 150px;
+    height: 150px;
+    padding: 5px;
+    margin-top: 10px;
+    
+}
+
