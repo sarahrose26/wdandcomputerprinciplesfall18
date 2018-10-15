@@ -1,5 +1,7 @@
 ## Fall Midterm, 2018
 
+[Midterm Review Slides](https://docs.google.com/presentation/d/1jpvWT95Kwu-B-f10NeMG0YSOPgOW8eLrvlBqxEXRfdE/edit?usp=sharing)
+
 The midterm will be 50 questions, multiple choice. 
 
 The questions will address the topics we've covered in class up until now, both theoretical and technical. For part of the exam, you will be asked to look at HTML/CSS code and answer questions about it. 
