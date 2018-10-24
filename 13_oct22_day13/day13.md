@@ -1,6 +1,6 @@
 ## Day 13
 
-[Slides for today](https://docs.google.com/presentation/d/1uwEr_jfUnmpXoKtsEinehkaYEa13rhf-BEI53mEEANc/edit#slide=id.g421c16c3f6_5_380)
+[Slides for today](https://docs.google.com/presentation/d/1uwEr_jfUnmpXoKtsEinehkaYEa13rhf-BEI53mEEANc/edit?usp=sharing)
 
 * [Web AIM](https://webaim.org/)
 
