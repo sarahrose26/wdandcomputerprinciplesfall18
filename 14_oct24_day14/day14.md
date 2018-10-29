@@ -4,7 +4,7 @@
 
     * Check your grade on NYU Classes
     
-    * Get a copy of your answer sheet. At any point this semester, you can visit me during office hours or make an appointment to compare your answer sheet with the answer key and a copy of the exam. 
+    * At any point this semester, you can visit me during office hours or make an appointment to compare your answer sheet with the answer key and a copy of the exam. 
     
     * Going over questions that were most frequently missed
     
