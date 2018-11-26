@@ -1,6 +1,6 @@
 ## Day 22
 
-* Intro to Jquery
+* [Intro to Jquery](https://docs.google.com/presentation/d/1E3KPeO1v8C9Eeir2DzAe44F8CNo0rx-YGpU7PAKLX48/edit?usp=sharing)
 
 * Jquery code-along
 
