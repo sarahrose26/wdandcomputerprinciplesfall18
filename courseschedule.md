@@ -50,7 +50,7 @@ Nov 26: Jquery
 
 Nov 28: Jquery
 
-Dec 3: Web audio and Video
+Dec 3: Javascript Animations
 
 Dec 5: Web design workshop
 
