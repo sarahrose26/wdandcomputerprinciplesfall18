@@ -4,7 +4,7 @@ The final will be 100 questions, multiple choice. The format is the same as the 
 
 The questions will address the topics we've covered in class up until now, both theoretical and technical. For part of the exam, you will be asked to look at HTML/CSS/Javascript code and answer questions about it. 
 
-Exam questions are pulled from previous lectures, so please review lecture notes, your in-class notes, and the affiliated readings for each class. 
+Exam questions are pulled from previous lectures, so please review lecture notes, your in-class notes, and the affiliated readings for each class. Anything we have covered in class this semester is fair game for the exam.
 
 Topics to review in preparation:
 
@@ -76,8 +76,9 @@ Box Model
 
 Units of Measurement (fixed and variable: px, %, em, vh, vw)
 
-Float and Clear
--understand the behavior of floated items and cases where you would 'clear'
+FLEXBOX
+-flexbox properties
+-[main axis vs. cross axis](https://shelf.brytewave.com/#/books/9781491960158/cfi/6/44!/4/10/82/2/2/2@0.314:0)
 
 Position
 -practice relative and absolute and fixed positioning (remember to use top, left, bottom, and right to control position) and z-index.
