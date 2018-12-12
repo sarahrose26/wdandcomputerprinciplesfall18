@@ -6,7 +6,7 @@ For the common syllabus of all sections, see [this page.](https://cs.nyu.edu/cou
 ## Exam Dates:
 Midterm: October 17
 
-Final: Wed, Dec 19 from 4:00pm-5:50pm (room TBD)
+Final: Wed, Dec 19 from 4:00pm-5:50pm, CIWW 512 (our regular classroom)
 
 NOTE: You can always refer to the CS Final Exam Schedule [here.](https://cs.nyu.edu/dynamic/courses/exams/)
 
