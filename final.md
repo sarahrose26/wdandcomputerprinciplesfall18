@@ -66,7 +66,6 @@ a. id selectors
 b. class selectors
 c. element selectors
 d. location (in style sheet, for example conflicting or the same styles within a style sheet will be governed by whichever is lower in the sheet).
--idea of CSS inheritance - what is it?
 -the various methods of and types of style sheets or invoking styles have an order of importance in case of conflict
 
 Link States
