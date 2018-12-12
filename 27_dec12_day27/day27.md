@@ -8,6 +8,22 @@
     
     * Student questions
     
+      * CSS Grid: Correct syntax, components of
+      
+      * Fonts: how to apply custom font/Google Fonts, fallback system, websafe fonts
+      
+      * Accessibility: high level concepts--what makes a page readable by a screenreader, what elements need to be present to make a page accessible
+      
+      * What do comments look like in HTML, CSS, JS?
+      
+      * CSS position: fixed, static, absolute, relative
+      
+      * HTML5 sematic tags-how it relates to accessibility
+      
+      * creation of media queries
+      
+      * if/else statements with equality
+   
     
 ### Homework
 
