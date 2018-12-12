@@ -18,11 +18,15 @@
       
       * CSS position: fixed, static, absolute, relative
       
+      * CSS display
+      
       * HTML5 sematic tags-how it relates to accessibility
       
       * creation of media queries
       
       * if/else statements with equality
+      
+      
    
     
 ### Homework
